@@ -15,3 +15,4 @@ En personlig Discord-bot utviklet for å svare på alle spørsmål du måtte ha 
 
 
 TBC
+![Vinnerbilde](./vinnerbilde.png)
